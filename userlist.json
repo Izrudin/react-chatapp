@@ -1,0 +1,24 @@
+{
+    "AllUsers":[
+        {
+            "userName":"bojkel",
+            "userSecret":"1234",
+            "name": "Bozhidar Aleksandrov"
+        },
+        {
+            "userName":"paulapes",
+            "userSecret":"1234",
+            "name":"Paula Pešić"
+        },
+        {
+            "userName":"kiko",
+            "userSecret":"1234",
+            "name":"Kristiyan Krumov"
+        },
+        {
+            "userName":"rokas",
+            "userSecret":"1234",
+            "name":"Rokas Bartašius"
+        }
+    ]
+}
